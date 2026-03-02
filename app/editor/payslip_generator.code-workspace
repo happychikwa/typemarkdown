@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../../payslip_generator"
+		},
+		{
+			"path": "../../../../vitepayslipgenerator"
+		},
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {}
+}
